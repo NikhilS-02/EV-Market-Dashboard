@@ -42,7 +42,10 @@ docs/                   report PDF, charts, build guide, performance record
 ```
 
 ## Links (fill in)
-- Tableau Public dashboard: ADD LINK
+- Tableau Public dashboard: https://public.tableau.com/views/Book1_17931188649350/Dashboard-1Executive?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+- https://public.tableau.com/shared/Y9FDKQFMC?:display_count=n&:origin=viz_share_link
+- https://public.tableau.com/views/Book1_17931188649350/Dashboard3-BatteryandTechnologyDr_Sarah?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+- https://public.tableau.com/views/Book1_17931188649350/Dashboard-1Executive?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 - Demo video: ADD LINK
 
 ## Note on the data
