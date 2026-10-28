@@ -1,0 +1,14 @@
+{% extends "base.html" %}
+{% block content %}
+<section class="hero">
+  <h1>Global Electric Vehicle Market Analysis</h1>
+  <p>Performance, pricing, battery technology and sales across 100,000 EV models, analysed with SQL and Tableau.</p>
+  <a class="btn" href="{{ url_for('dashboard') }}">Open dashboard</a>
+  <a class="btn ghost" href="{{ url_for('story') }}">Read the story</a>
+</section>
+<section class="grid">
+  <div class="card"><h3>Data</h3><p>100,000 models, 37 attributes, 2018&ndash;2026, stored in MySQL.</p></div>
+  <div class="card"><h3>Analysis</h3><p>12 visualizations, 6 calculated fields, 6 filters, 3 dashboards.</p></div>
+  <div class="card"><h3>Story</h3><p>A 6-scene narrative from market size to recommendations.</p></div>
+</section>
+{% endblock %}
