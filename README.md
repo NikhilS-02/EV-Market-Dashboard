@@ -46,7 +46,7 @@ docs/                   report PDF, charts, build guide, performance record
 - https://public.tableau.com/shared/Y9FDKQFMC?:display_count=n&:origin=viz_share_link
 - https://public.tableau.com/views/Book1_17931188649350/Dashboard3-BatteryandTechnologyDr_Sarah?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 - https://public.tableau.com/views/Book1_17931188649350/Dashboard-1Executive?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
-- Demo video: ADD LINK
+- Demo video:https://drive.google.com/file/d/1C1XAUeSg5JDouV5Vj4F2-a-R34xE3D7A/view?usp=drivesdk
 
 ## Note on the data
 The dataset is synthetic: models listed per year, regional totals and battery range are almost uniform.
